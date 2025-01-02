@@ -13,7 +13,7 @@ This page categorizes the literature by the **Last Post**
 ## Papers
 
 ### Outline 
-- [<img src=https://img.shields.io/badge/2024-104-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2024)
+- [<img src=https://img.shields.io/badge/2024-109-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2024)
 - [<img src=https://img.shields.io/badge/2023-251-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2023)
 - [<img src=https://img.shields.io/badge/2022-232-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2022)
 - [<img src=https://img.shields.io/badge/2021-108-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2021)
@@ -295,6 +295,24 @@ LLMs**](https://doi.org/10.48550/arXiv.2401.10065),<br> by *Haritz Puerto, Marti
 - [<img src=https://img.shields.io/badge/-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2303.10475) [**Large Language Model Instruction Following: A Survey of Progresses and Challenges**](https://arxiv.org/abs/2303.10475),<br> by *Renze Lou, Kai Zhang and Wenpeng Yin*
 <br><br>
 - [<img src=https://img.shields.io/badge/-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2311.13538) [**AlignedCoT: Prompting Large Language Models via Native-Speaking Demonstrations**](https://arxiv.org/abs/2311.13538),<br> by *Zhicheng Yang, Yinya Huang, Jing Xiong, Liang Feng, Xiaodan Liang, Yiwei Wang and Jing Tang*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2407.04020) [**LLMAEL: Large Language Models are Good Context Augmenters for Entity
+Linking**](https://doi.org/10.48550/arXiv.2407.04020),<br> by *Amy Xin, Yunjia Qi, Zijun Yao, Fangwei Zhu, Kaisheng Zeng, Bin Xu, Lei Hou and Juanzi Li*
+<br><br>
+- [<img src=https://img.shields.io/badge/the_33rd_{ACM}_International_Conference_on_Information
+and_Knowledge_Management,_{CIKM}_2024,_Boise,_ID,_USA,_October_21--25,
+2024-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.1145/3627673.3679793) [**UniMEL: A Unified Framework for Multimodal Entity Linking with Large
+Language Models**](https://doi.org/10.1145/3627673.3679793),<br> by *Qi Liu, Yongyi He, Tong Xu, Defu Lian, Che Liu, Zhi Zheng and Enhong Chen*
+<br><br>
+- [<img src=https://img.shields.io/badge/the_2024_Conference_on_Empirical_Methods_in_Natural
+Language_Processing,_{EMNLP}_2024,_Miami,_FL,_USA,_November_12--16,
+2024-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/2024.emnlp-main.756) [**OneNet: A Fine-Tuning Free Framework for Few-Shot Entity Linking
+via Large Language Model Prompting**](https://aclanthology.org/2024.emnlp-main.756),<br> by *Xukai Liu, Ye Liu, Kai Zhang, Kehang Wang, Qi Liu and Enhong Chen*
+<br><br>
+- [<img src=https://img.shields.io/badge/World_Wide_Web_(WWW)-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.1007/s11280-024-01297-w) [**LLMs for knowledge graph construction and reasoning: recent capabilities
+and future opportunities**](https://doi.org/10.1007/s11280-024-01297-w),<br> by *Yuqi Zhu, Xiaohan Wang, Jing Chen, Shuofei Qiao, Yixin Ou, Yunzhi Yao, Shumin Deng, Huajun Chen et al.*
+<br><br>
+- [<img src=https://img.shields.io/badge/-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2412.10654) [**Thinking with Knowledge Graphs: Enhancing LLM Reasoning Through Structured Data**](https://arxiv.org/abs/2412.10654),<br> by *Xue Wu and Kostas Tsioutsiouliklis*
 <br><br>
 ### 2023
 

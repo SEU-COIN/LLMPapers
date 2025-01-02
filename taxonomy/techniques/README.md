@@ -73,7 +73,7 @@ This page categorizes the literature by the **Techniques**
 - [<img src=https://img.shields.io/badge/Agent-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#agent)
 - [<img src=https://img.shields.io/badge/LLM_and_GNN-5-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#llm-and-gnn)
 - [<img src=https://img.shields.io/badge/Vision_LLM-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#vision-llm)
-- [<img src=https://img.shields.io/badge/LLM_and_KG-20-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#llm-and-kg)
+- [<img src=https://img.shields.io/badge/LLM_and_KG-24-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#llm-and-kg)
 - [<img src=https://img.shields.io/badge/Others-6-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#others)
 ### Hyperlinks 
 - [[Overview]](https://github.com/KSESEU/LLMPapers/blob/main/README.md) -- [Homepage](https://github.com/KSESEU/LLMPapers/blob/main/README.md)
@@ -2598,6 +2598,22 @@ Service Question Answering**](https://doi.org/10.1145/3626772.3661370),<br> by *
 on Knowledge Graph**](https://openreview.net/forum?id=nnVO1PvbTv),<br> by *Jiashuo Sun, Chengjin Xu, Lumingyuan Tang, Saizhuo Wang, Chen Lin, Yeyun Gong, Lionel M. Ni, Heung-Yeung Shum et al.*
 <br><br>
 - [<img src=https://img.shields.io/badge/ACM_Trans._Asian_Low_Resour._Lang._Inf._Process.-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.1145/3641850) [**CodeKGC: Code Language Model for Generative Knowledge Graph Construction**](https://doi.org/10.1145/3641850),<br> by *Zhen Bi, Jing Chen, Yinuo Jiang, Feiyu Xiong, Wei Guo, Huajun Chen and Ningyu Zhang*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2407.04020) [**LLMAEL: Large Language Models are Good Context Augmenters for Entity
+Linking**](https://doi.org/10.48550/arXiv.2407.04020),<br> by *Amy Xin, Yunjia Qi, Zijun Yao, Fangwei Zhu, Kaisheng Zeng, Bin Xu, Lei Hou and Juanzi Li*
+<br><br>
+- [<img src=https://img.shields.io/badge/the_33rd_{ACM}_International_Conference_on_Information
+and_Knowledge_Management,_{CIKM}_2024,_Boise,_ID,_USA,_October_21--25,
+2024-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.1145/3627673.3679793) [**UniMEL: A Unified Framework for Multimodal Entity Linking with Large
+Language Models**](https://doi.org/10.1145/3627673.3679793),<br> by *Qi Liu, Yongyi He, Tong Xu, Defu Lian, Che Liu, Zhi Zheng and Enhong Chen*
+<br><br>
+- [<img src=https://img.shields.io/badge/the_2024_Conference_on_Empirical_Methods_in_Natural
+Language_Processing,_{EMNLP}_2024,_Miami,_FL,_USA,_November_12--16,
+2024-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/2024.emnlp-main.756) [**OneNet: A Fine-Tuning Free Framework for Few-Shot Entity Linking
+via Large Language Model Prompting**](https://aclanthology.org/2024.emnlp-main.756),<br> by *Xukai Liu, Ye Liu, Kai Zhang, Kehang Wang, Qi Liu and Enhong Chen*
+<br><br>
+- [<img src=https://img.shields.io/badge/World_Wide_Web_(WWW)-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.1007/s11280-024-01297-w) [**LLMs for knowledge graph construction and reasoning: recent capabilities
+and future opportunities**](https://doi.org/10.1007/s11280-024-01297-w),<br> by *Yuqi Zhu, Xiaohan Wang, Jing Chen, Shuofei Qiao, Yixin Ou, Yunzhi Yao, Shumin Deng, Huajun Chen et al.*
 <br><br>
 - [<img src=https://img.shields.io/badge/-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://www.youtube.com/watch?v=RBKHLt3n9rM) [**Fusing Knowledge Graphs and Large Language Models**](https://www.youtube.com/watch?v=RBKHLt3n9rM),<br> by *Rudy Agovic*
 <br><br>
