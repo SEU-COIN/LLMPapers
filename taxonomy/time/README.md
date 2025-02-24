@@ -13,7 +13,7 @@ This page categorizes the literature by the **Last Post**
 ## Papers
 
 ### Outline 
-- [<img src=https://img.shields.io/badge/2024-109-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2024)
+- [<img src=https://img.shields.io/badge/2024-113-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2024)
 - [<img src=https://img.shields.io/badge/2023-252-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2023)
 - [<img src=https://img.shields.io/badge/2022-232-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2022)
 - [<img src=https://img.shields.io/badge/2021-108-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2021)
@@ -313,6 +313,18 @@ via Large Language Model Prompting**](https://aclanthology.org/2024.emnlp-main.7
 and future opportunities**](https://doi.org/10.1007/s11280-024-01297-w),<br> by *Yuqi Zhu, Xiaohan Wang, Jing Chen, Shuofei Qiao, Yixin Ou, Yunzhi Yao, Shumin Deng, Huajun Chen et al.*
 <br><br>
 - [<img src=https://img.shields.io/badge/-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2412.10654) [**Thinking with Knowledge Graphs: Enhancing LLM Reasoning Through Structured Data**](https://arxiv.org/abs/2412.10654),<br> by *Xue Wu and Kostas Tsioutsiouliklis*
+<br><br>
+- [<img src=https://img.shields.io/badge/NeurIPS-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](http://papers.nips.cc/paper\_files/paper/2024/hash/6b031defd145b02bed031093d8797bb3-Abstract-Conference.html) [**Teach Better or Show Smarter? On Instructions and Exemplars in Automatic
+Prompt Optimization**](http://papers.nips.cc/paper\_files/paper/2024/hash/6b031defd145b02bed031093d8797bb3-Abstract-Conference.html),<br> by *Xingchen Wan, Ruoxi Sun, Hootan Nakhost and Sercan \"O. Arik*
+<br><br>
+- [<img src=https://img.shields.io/badge/ACL-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2024.acl-long.569) [**Interactive-KBQA: Multi-Turn Interactions for Knowledge Base Question
+Answering with Large Language Models**](https://doi.org/10.18653/v1/2024.acl-long.569),<br> by *Guanming Xiong, Junwei Bao and Wen Zhao*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2406.17231) [**CogMG: Collaborative Augmentation Between Large Language Model and
+Knowledge Graph**](https://doi.org/10.48550/arXiv.2406.17231),<br> by *Tong Zhou, Yubo Chen, Kang Liu and Jun Zhao*
+<br><br>
+- [<img src=https://img.shields.io/badge/EMNLP-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/2024.emnlp-main.1023) [**Generate-on-Graph: Treat LLM as both Agent and KG for Incomplete
+Knowledge Graph Question Answering**](https://aclanthology.org/2024.emnlp-main.1023),<br> by *Yao Xu, Shizhu He, Jiabei Chen, Zihao Wang, Yangqiu Song, Hanghang Tong, Guang Liu, Jun Zhao et al.*
 <br><br>
 ### 2023
 
