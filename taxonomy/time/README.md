@@ -13,7 +13,8 @@ This page categorizes the literature by the **Last Post**
 ## Papers
 
 ### Outline 
-- [<img src=https://img.shields.io/badge/2024-113-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2024)
+- [<img src=https://img.shields.io/badge/2025-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2025)
+- [<img src=https://img.shields.io/badge/2024-118-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2024)
 - [<img src=https://img.shields.io/badge/2023-252-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2023)
 - [<img src=https://img.shields.io/badge/2022-232-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2022)
 - [<img src=https://img.shields.io/badge/2021-108-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2021)
@@ -32,6 +33,10 @@ This page categorizes the literature by the **Last Post**
 -  -- [Published Time](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time)
 -  -- [Published Venue](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue)
 
+### 2025
+
+- [<img src=https://img.shields.io/badge/-2025-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2502.15589) [**LightThinker: Thinking Step-by-Step Compression**](https://arxiv.org/abs/2502.15589),<br> by *Jintian Zhang, Yuqi Zhu, Mengshu Sun, Yujie Luo, Shuofei Qiao, Lun Du, Da Zheng, Huajun Chen et al.*
+<br><br>
 ### 2024
 
 - [<img src=https://img.shields.io/badge/the_2024_Conference_of_the_North_American_Chapter_of_the_Association_for_Computational_Linguistics:_Human_Language_Technologies_(Volume_1:_Long_Papers)-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/2024.naacl-long.101.pdf) [**TISE: A Tripartite In-context Selection Method for Event Argument Extraction**](https://aclanthology.org/2024.naacl-long.101.pdf),<br> by *Fu, Yanhe, Cao, Yanan, Wang, Qingyue and Liu, Yi*
@@ -325,6 +330,18 @@ Knowledge Graph**](https://doi.org/10.48550/arXiv.2406.17231),<br> by *Tong Zhou
 <br><br>
 - [<img src=https://img.shields.io/badge/EMNLP-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/2024.emnlp-main.1023) [**Generate-on-Graph: Treat LLM as both Agent and KG for Incomplete
 Knowledge Graph Question Answering**](https://aclanthology.org/2024.emnlp-main.1023),<br> by *Yao Xu, Shizhu He, Jiabei Chen, Zihao Wang, Yangqiu Song, Hanghang Tong, Guang Liu, Jun Zhao et al.*
+<br><br>
+- [<img src=https://img.shields.io/badge/EMNLP-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/2024.findings-emnlp.769) [**Unleashing the Power of Large Language Models in Zero-shot Relation
+Extraction via Self-Prompting**](https://aclanthology.org/2024.findings-emnlp.769),<br> by *Siyi Liu, Yang Li, Jiang Li, Shan Yang and Yunshi Lan*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2403.14888) [**AutoRE: Document-Level Relation Extraction with Large Language Models**](https://doi.org/10.48550/arXiv.2403.14888),<br> by *Lilong Xue, Dan Zhang, Yuxiao Dong and Jie Tang*
+<br><br>
+- [<img src=https://img.shields.io/badge/ACL-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2024.acl-long.391) [**End-to-end Learning of Logical Rules for Enhancing Document-level
+Relation Extraction**](https://doi.org/10.18653/v1/2024.acl-long.391),<br> by *Kunxun Qi, Jianfeng Du and Hai Wan*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2404.19146) [**Automated Construction of Theme-specific Knowledge Graphs**](https://doi.org/10.48550/arXiv.2404.19146),<br> by *Linyi Ding, Sizhe Zhou, Jinfeng Xiao and Jiawei Han*
+<br><br>
+- [<img src=https://img.shields.io/badge/EMNLP-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/2024.emnlp-main.54) [**Large Language Models for Data Annotation and Synthesis: A Survey**](https://aclanthology.org/2024.emnlp-main.54),<br> by *Zhen Tan, Dawei Li, Song Wang, Alimohammad Beigi, Bohan Jiang, Amrita Bhattacharjee, Mansooreh Karami, Jundong Li et al.*
 <br><br>
 ### 2023
 
