@@ -71,7 +71,7 @@ This page categorizes the literature by the **Published Venue**
 - [<img src=https://img.shields.io/badge/VLDB-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#vldb)
 - [<img src=https://img.shields.io/badge/WASA-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#wasa)
 - [<img src=https://img.shields.io/badge/WWW-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#www)
-- [<img src=https://img.shields.io/badge/arXiv-327-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#arxiv)
+- [<img src=https://img.shields.io/badge/arXiv-335-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#arxiv)
 - [<img src=https://img.shields.io/badge/openreview-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#openreview)
 ### Hyperlinks 
 - [[Overview]](https://github.com/KSESEU/LLMPapers/blob/main/README.md) -- [Homepage](https://github.com/KSESEU/LLMPapers/blob/main/README.md)
@@ -1417,6 +1417,23 @@ Models**](https://doi.org/10.48550/arXiv.2502.17419),<br> by *Zhong-Zhi Li, Duzh
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2025-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2502.13389) [**Reasoning with Reinforced Functional Token Tuning**](https://doi.org/10.48550/arXiv.2502.13389),<br> by *Kongcheng Zhang, Qi Yao, Baisheng Lai, Jiaxing Huang, Wenkai Fang, Dacheng Tao, Mingli Song and Shunyu Liu*
 <br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2025-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2503.16419) [**Stop Overthinking: A Survey on Efficient Reasoning for Large Language
+Models**](https://doi.org/10.48550/arXiv.2503.16419),<br> by *Yang Sui, Yu-Neng Chuang, Guanchu Wang, Jiamu Zhang, Tianyi Zhang, Jiayi Yuan, Hongyi Liu, Andrew Wen et al.*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2025-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2503.17539) [**Generating, Fast and Slow: Scalable Parallel Video Generation with
+Video Interface Networks**](https://doi.org/10.48550/arXiv.2503.17539),<br> by *Bhishma Dedhia, David Bourgin, Krishna Kumar Singh, Yuheng Li, Yan Kang, Zhan Xu, Niraj K. Jha and Yuchen Liu*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2025-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2501.01306) [**Think More, Hallucinate Less: Mitigating Hallucinations via Dual Process
+of Fast and Slow Thinking**](https://doi.org/10.48550/arXiv.2501.01306),<br> by *Xiaoxue Cheng, Junyi Li, Wayne Xin Zhao and Ji-Rong Wen*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2025-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2503.12918) [**ThinkPatterns-21k: A Systematic Study on the Impact of Thinking
+Patterns in LLMs**](https://doi.org/10.48550/arXiv.2503.12918),<br> by *Pengcheng Wen, Jiaming Ji, Chi-Min Chan, Juntao Dai, Donghai Hong, Yaodong Yang, Sirui Han and Yike Guo*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2025-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2502.04404) [**Step Back to Leap Forward: Self-Backtracking for Boosting Reasoning
+of Language Models**](https://doi.org/10.48550/arXiv.2502.04404),<br> by *Xiao-Wen Yang, Xuan-Yi Zhu, Wen-Da Wei, Dingchu Zhang, Jie-Jing Shao, Zhi Zhou, Lan-Zhe Guo and Yufeng Li*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2025-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2502.10858) [**Is Depth All You Need? An Exploration of Iterative Reasoning in LLMs**](https://doi.org/10.48550/arXiv.2502.10858),<br> by *Zongqian Wu, Tianyu Li, Baoduo Xu, Jiaying Yang, Mengmeng Zhan, Xiaofeng Zhu and Lei Feng*
+<br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2402.01619) [**KB-Plugin: A Plug-and-play Framework for Large Language Models to
 Induce Programs over Low-resourced Knowledge Bases**](https://doi.org/10.48550/arXiv.2402.01619),<br> by *Jiajie Zhang, Shulin Cao, Linmei Hu, Ling Feng, Lei Hou and Juanzi Li*
 <br><br>
@@ -1539,6 +1556,11 @@ Knowledge Graph**](https://doi.org/10.48550/arXiv.2406.17231),<br> by *Tong Zhou
 - [<img src=https://img.shields.io/badge/CoRR-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2403.14888) [**AutoRE: Document-Level Relation Extraction with Large Language Models**](https://doi.org/10.48550/arXiv.2403.14888),<br> by *Lilong Xue, Dan Zhang, Yuxiao Dong and Jie Tang*
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2404.19146) [**Automated Construction of Theme-specific Knowledge Graphs**](https://doi.org/10.48550/arXiv.2404.19146),<br> by *Linyi Ding, Sizhe Zhou, Jinfeng Xiao and Jiawei Han*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2410.23743) [**What Happened in LLMs Layers when Trained for Fast vs. Slow Thinking:
+A Gradient Perspective**](https://doi.org/10.48550/arXiv.2410.23743),<br> by *Ming Li, Yanhong Li and Tianyi Zhou*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2412.10827) [**Rethinking Chain-of-Thought from the Perspective of Self-Training**](https://doi.org/10.48550/arXiv.2412.10827),<br> by *Zongqian Wu, Baoduo Xu, Ruochen Cui, Mengmeng Zhan, Xiaofeng Zhu and Lei Feng*
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2302.04023) [**A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning,
 Hallucination, and Interactivity**](https://doi.org/10.48550/arXiv.2302.04023),<br> by *Yejin Bang, Samuel Cahyawijaya, Nayeon Lee, Wenliang Dai, Dan Su, Bryan Wilie, Holy Lovenia, Ziwei Ji et al.*

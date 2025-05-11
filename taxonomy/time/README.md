@@ -13,8 +13,8 @@ This page categorizes the literature by the **Last Post**
 ## Papers
 
 ### Outline 
-- [<img src=https://img.shields.io/badge/2025-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2025)
-- [<img src=https://img.shields.io/badge/2024-118-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2024)
+- [<img src=https://img.shields.io/badge/2025-12-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2025)
+- [<img src=https://img.shields.io/badge/2024-120-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2024)
 - [<img src=https://img.shields.io/badge/2023-254-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2023)
 - [<img src=https://img.shields.io/badge/2022-232-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2022)
 - [<img src=https://img.shields.io/badge/2021-108-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2021)
@@ -44,6 +44,27 @@ with Large Language Models**](https://doi.org/10.48550/arXiv.2501.09686),<br> by
 Models**](https://doi.org/10.48550/arXiv.2502.17419),<br> by *Zhong-Zhi Li, Duzhen Zhang, Ming-Liang Zhang, Jiaxin Zhang, Zengyan Liu, Yuxuan Yao, Haotian Xu, Junhao Zheng et al.*
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2025-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2502.13389) [**Reasoning with Reinforced Functional Token Tuning**](https://doi.org/10.48550/arXiv.2502.13389),<br> by *Kongcheng Zhang, Qi Yao, Baisheng Lai, Jiaxing Huang, Wenkai Fang, Dacheng Tao, Mingli Song and Shunyu Liu*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2025-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2503.16419) [**Stop Overthinking: A Survey on Efficient Reasoning for Large Language
+Models**](https://doi.org/10.48550/arXiv.2503.16419),<br> by *Yang Sui, Yu-Neng Chuang, Guanchu Wang, Jiamu Zhang, Tianyi Zhang, Jiayi Yuan, Hongyi Liu, Andrew Wen et al.*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2025-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2503.17539) [**Generating, Fast and Slow: Scalable Parallel Video Generation with
+Video Interface Networks**](https://doi.org/10.48550/arXiv.2503.17539),<br> by *Bhishma Dedhia, David Bourgin, Krishna Kumar Singh, Yuheng Li, Yan Kang, Zhan Xu, Niraj K. Jha and Yuchen Liu*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2025-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2501.01306) [**Think More, Hallucinate Less: Mitigating Hallucinations via Dual Process
+of Fast and Slow Thinking**](https://doi.org/10.48550/arXiv.2501.01306),<br> by *Xiaoxue Cheng, Junyi Li, Wayne Xin Zhao and Ji-Rong Wen*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2025-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2503.12918) [**ThinkPatterns-21k: A Systematic Study on the Impact of Thinking
+Patterns in LLMs**](https://doi.org/10.48550/arXiv.2503.12918),<br> by *Pengcheng Wen, Jiaming Ji, Chi-Min Chan, Juntao Dai, Donghai Hong, Yaodong Yang, Sirui Han and Yike Guo*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2025-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2502.04404) [**Step Back to Leap Forward: Self-Backtracking for Boosting Reasoning
+of Language Models**](https://doi.org/10.48550/arXiv.2502.04404),<br> by *Xiao-Wen Yang, Xuan-Yi Zhu, Wen-Da Wei, Dingchu Zhang, Jie-Jing Shao, Zhi Zhou, Lan-Zhe Guo and Yufeng Li*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2025-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2502.10858) [**Is Depth All You Need? An Exploration of Iterative Reasoning in LLMs**](https://doi.org/10.48550/arXiv.2502.10858),<br> by *Zongqian Wu, Tianyu Li, Baoduo Xu, Jiaying Yang, Mengmeng Zhan, Xiaofeng Zhu and Lei Feng*
+<br><br>
+- [<img src=https://img.shields.io/badge/Submitted_to_ACL_Rolling_Review_--_December_2024-2025-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://openreview.net/forum?id=fBuWs9swzc) [**An Empirical Study of Activating Slow-thinking Capability of Large Language Models**](https://openreview.net/forum?id=fBuWs9swzc),<br> by *Anonymous*
+<br><br>
+- [<img src=https://img.shields.io/badge/-2025-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2504.13534) [**CoT-RAG: Integrating Chain of Thought and Retrieval-Augmented Generation to Enhance Reasoning in Large Language Models**](https://arxiv.org/abs/2504.13534),<br> by *Feiyang Li, Peng Fang, Zhan Shi, Arijit Khan, Fang Wang, Dan Feng, Weihao Wang, Xin Zhang et al.*
 <br><br>
 ### 2024
 
@@ -350,6 +371,11 @@ Relation Extraction**](https://doi.org/10.18653/v1/2024.acl-long.391),<br> by *K
 - [<img src=https://img.shields.io/badge/CoRR-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2404.19146) [**Automated Construction of Theme-specific Knowledge Graphs**](https://doi.org/10.48550/arXiv.2404.19146),<br> by *Linyi Ding, Sizhe Zhou, Jinfeng Xiao and Jiawei Han*
 <br><br>
 - [<img src=https://img.shields.io/badge/EMNLP-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/2024.emnlp-main.54) [**Large Language Models for Data Annotation and Synthesis: A Survey**](https://aclanthology.org/2024.emnlp-main.54),<br> by *Zhen Tan, Dawei Li, Song Wang, Alimohammad Beigi, Bohan Jiang, Amrita Bhattacharjee, Mansooreh Karami, Jundong Li et al.*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2410.23743) [**What Happened in LLMs Layers when Trained for Fast vs. Slow Thinking:
+A Gradient Perspective**](https://doi.org/10.48550/arXiv.2410.23743),<br> by *Ming Li, Yanhong Li and Tianyi Zhou*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2412.10827) [**Rethinking Chain-of-Thought from the Perspective of Self-Training**](https://doi.org/10.48550/arXiv.2412.10827),<br> by *Zongqian Wu, Baoduo Xu, Ruochen Cui, Mengmeng Zhan, Xiaofeng Zhu and Lei Feng*
 <br><br>
 ### 2023
 
