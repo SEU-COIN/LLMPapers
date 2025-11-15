@@ -14,7 +14,7 @@ The automation script of this repo is powered by [Auto-Bibfile](https://github.c
 
 ### Outline 
 - [<img src=https://img.shields.io/badge/Evaluation-31-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#evaluation)
-- [<img src=https://img.shields.io/badge/Survey-47-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#survey)
+- [<img src=https://img.shields.io/badge/Survey-48-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#survey)
 - [<img src=https://img.shields.io/badge/In--Context_Learning-44-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#in-context-learning)
 - [<img src=https://img.shields.io/badge/Instruction_Tuning-18-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#instruction-tuning)
 - [<img src=https://img.shields.io/badge/RLHF-20-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#rlhf)
@@ -24,8 +24,8 @@ The automation script of this repo is powered by [Auto-Bibfile](https://github.c
 - [<img src=https://img.shields.io/badge/Knowledge_Distillation-24-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#knowledge-distillation)
 - [<img src=https://img.shields.io/badge/Knowledge_Generation-11-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#knowledge-generation)
 - [<img src=https://img.shields.io/badge/Knowledge_Editing-16-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#knowledge-editing)
-- [<img src=https://img.shields.io/badge/Reasoning-163-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#reasoning)
-  - [<img src=https://img.shields.io/badge/Chain_of_Thought-70-deepskyblue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#chain-of-thought)
+- [<img src=https://img.shields.io/badge/Reasoning-165-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#reasoning)
+  - [<img src=https://img.shields.io/badge/Chain_of_Thought-72-deepskyblue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#chain-of-thought)
   - [<img src=https://img.shields.io/badge/Multi--Step_Reasoning-6-deepskyblue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#multi-step-reasoning)
   - [<img src=https://img.shields.io/badge/Arithmetic_Reasoning-5-deepskyblue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#arithmetic-reasoning)
   - [<img src=https://img.shields.io/badge/Symbolic_Reasoning-23-deepskyblue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#symbolic-reasoning)
@@ -56,7 +56,7 @@ The automation script of this repo is powered by [Auto-Bibfile](https://github.c
 - [<img src=https://img.shields.io/badge/Event_Relation_Extraction-7-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#event-relation-extraction)
 - [<img src=https://img.shields.io/badge/Data_Argumentation-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#data-argumentation)
 - [<img src=https://img.shields.io/badge/Data_Annotation-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#data-annotation)
-- [<img src=https://img.shields.io/badge/Information_Extraction-56-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#information-extraction)
+- [<img src=https://img.shields.io/badge/Information_Extraction-61-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#information-extraction)
 - [<img src=https://img.shields.io/badge/Domain_Adaptive-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#domain-adaptive)
 - [<img src=https://img.shields.io/badge/Question_Answering-26-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#question-answering)
 - [<img src=https://img.shields.io/badge/Application-10-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#application)
@@ -173,6 +173,8 @@ with Large Language Models**](https://doi.org/10.48550/arXiv.2501.09686),<br> by
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2025-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2502.17419) [**From System 1 to System 2: A Survey of Reasoning Large Language
 Models**](https://doi.org/10.48550/arXiv.2502.17419),<br> by *Zhong-Zhi Li, Duzhen Zhang, Ming-Liang Zhang, Jiaxin Zhang, Zengyan Liu, Yuxuan Yao, Haotian Xu, Junhao Zheng et al.*
+<br><br>
+- [<img src=https://img.shields.io/badge/-2025-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2510.26493) [**Context Engineering 2.0: The Context of Context Engineering**](https://arxiv.org/abs/2510.26493),<br> by *Qishuo Hua, Lyumanshan Ye, Dayuan Fu, Yang Xiao, Xiaojie Cai, Yunze Wu, Jifan Lin, Junfei Wang et al.*
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2402.18041) [**Datasets for Large Language Models: A Comprehensive Survey**](https://doi.org/10.48550/arXiv.2402.18041),<br> by *Yang Liu, Jiahuan Cao, Chongyu Liu, Kai Ding and Lianwen Jin*
 <br><br>
@@ -919,6 +921,16 @@ Language Models**](https://doi.org/10.18653/v1/2022.findings-emnlp.265),<br> by 
 - [<img src=https://img.shields.io/badge/CoRR-2025-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2502.10858) [**Is Depth All You Need? An Exploration of Iterative Reasoning in LLMs**](https://doi.org/10.48550/arXiv.2502.10858),<br> by *Zongqian Wu, Tianyu Li, Baoduo Xu, Jiaying Yang, Mengmeng Zhan, Xiaofeng Zhu and Lei Feng*
 <br><br>
 - [<img src=https://img.shields.io/badge/-2025-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2504.13534) [**CoT-RAG: Integrating Chain of Thought and Retrieval-Augmented Generation to Enhance Reasoning in Large Language Models**](https://arxiv.org/abs/2504.13534),<br> by *Feiyang Li, Peng Fang, Zhan Shi, Arijit Khan, Fang Wang, Dan Feng, Weihao Wang, Xin Zhang et al.*
+<br><br>
+- [<img src=https://img.shields.io/badge/the_63rd_Annual_Meeting_of_the_Association_for_Computational
+Linguistics_(Volume_1:_Long_Papers),_{ACL}_2025,_Vienna,_Austria,
+July_27_--_August_1,_2025-2025-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/2025.acl-long.1562/) [**Why Prompt Design Matters and Works: A Complexity Analysis of Prompt
+Search Space in LLMs**](https://aclanthology.org/2025.acl-long.1562/),<br> by *Xiang Zhang, Juntai Cao, Chenyu You and Dujian Ding*
+<br><br>
+- [<img src=https://img.shields.io/badge/the_63rd_Annual_Meeting_of_the_Association_for_Computational
+Linguistics_(Volume_1:_Long_Papers),_{ACL}_2025,_Vienna,_Austria,
+July_27_--_August_1,_2025-2025-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/2025.acl-long.1213/) [**Chain-of-Reasoning: Towards Unified Mathematical Reasoning in Large
+Language Models via a Multi-Paradigm Perspective**](https://aclanthology.org/2025.acl-long.1213/),<br> by *Yiyao Yu, Yuxiang Zhang, Dongdong Zhang, Xiao Liang, Hengyuan Zhang, Xingxing Zhang, Mahmoud Khademi, Hany Hassan Awadalla et al.*
 <br><br>
 - [<img src=https://img.shields.io/badge/-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2401.14295) [**Topologies of Reasoning: Demystifying Chains, Trees, and Graphs of Thoughts**](https://arxiv.org/abs/2401.14295),<br> by *Maciej Besta, Florim Memedi, Zhenyu Zhang, Robert Gerstenberger, Nils Blach, Piotr Nyczyk, Marcin Copik, Grzegorz Kwaśniewski et al.*
 <br><br>
@@ -2238,6 +2250,25 @@ Extraction via Self-Prompting**](https://aclanthology.org/2024.findings-emnlp.76
 <br><br>
 - [<img src=https://img.shields.io/badge/ACL-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2024.acl-long.391) [**End-to-end Learning of Logical Rules for Enhancing Document-level
 Relation Extraction**](https://doi.org/10.18653/v1/2024.acl-long.391),<br> by *Kunxun Qi, Jianfeng Du and Hai Wan*
+<br><br>
+- [<img src=https://img.shields.io/badge/the_2024_Conference_on_Empirical_Methods_in_Natural
+Language_Processing,_{EMNLP}_2024,_Miami,_FL,_USA,_November_12--16,
+2024-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2024.emnlp-main.660) [**NuNER: Entity Recognition Encoder Pre-training via LLM-Annotated Data**](https://doi.org/10.18653/v1/2024.emnlp-main.660),<br> by *Sergei Bogdanov, Alexandre Constantin, Timoth\'ee Bernard, Beno\^\it Crabb\'e and Etienne Bernard*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2412.10121) [**Familiarity: Better Evaluation of Zero-Shot Named Entity Recognition
+by Quantifying Label Shifts in Synthetic Training Data**](https://doi.org/10.48550/arXiv.2412.10121),<br> by *Jonas Golde, Patrick Haller, Max Ploner, Fabio Barth, Nicolaas Paul Jedema and Alan Akbik*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2410.13118) [**Retrieval-Enhanced Named Entity Recognition**](https://doi.org/10.48550/arXiv.2410.13118),<br> by *Enzo Shiraishi, Raphael Y. de Camargo, Henrique L. P. Silva and Ronaldo C. Prati*
+<br><br>
+- [<img src=https://img.shields.io/badge/the_2024_Conference_of_the_North_American_Chapter_of
+the_Association_for_Computational_Linguistics:_Human_Language_Technologies
+(Volume_1:_Long_Papers),_{NAACL}_2024,_Mexico_City,_Mexico,_June_16--21,
+2024-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2024.naacl-long.300) [**GLiNER: Generalist Model for Named Entity Recognition using Bidirectional
+Transformer**](https://doi.org/10.18653/v1/2024.naacl-long.300),<br> by *Urchade Zaratiana, Nadi Tomeh, Pierre Holat and Thierry Charnois*
+<br><br>
+- [<img src=https://img.shields.io/badge/the_2024_Conference_on_Empirical_Methods_in_Natural
+Language_Processing,_{EMNLP}_2024,_Miami,_FL,_USA,_November_12--16,
+2024-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2024.emnlp-main.419) [**ADELIE: Aligning Large Language Models on Information Extraction**](https://doi.org/10.18653/v1/2024.emnlp-main.419),<br> by *Yunjia Qi, Hao Peng, Xiaozhi Wang, Bin Xu, Lei Hou and Juanzi Li*
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2302.10205) [**Zero-Shot Information Extraction via Chatting with ChatGPT**](https://doi.org/10.48550/arXiv.2302.10205),<br> by *Xiang Wei, Xingyu Cui, Ning Cheng, Xiaobin Wang, Xin Zhang, Shen Huang, Pengjun Xie, Jinan Xu et al.*
 <br><br>

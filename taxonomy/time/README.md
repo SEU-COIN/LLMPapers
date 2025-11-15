@@ -13,8 +13,8 @@ This page categorizes the literature by the **Last Post**
 ## Papers
 
 ### Outline 
-- [<img src=https://img.shields.io/badge/2025-12-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2025)
-- [<img src=https://img.shields.io/badge/2024-120-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2024)
+- [<img src=https://img.shields.io/badge/2025-15-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2025)
+- [<img src=https://img.shields.io/badge/2024-125-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2024)
 - [<img src=https://img.shields.io/badge/2023-254-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2023)
 - [<img src=https://img.shields.io/badge/2022-232-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2022)
 - [<img src=https://img.shields.io/badge/2021-108-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2021)
@@ -65,6 +65,18 @@ of Language Models**](https://doi.org/10.48550/arXiv.2502.04404),<br> by *Xiao-W
 - [<img src=https://img.shields.io/badge/Submitted_to_ACL_Rolling_Review_--_December_2024-2025-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://openreview.net/forum?id=fBuWs9swzc) [**An Empirical Study of Activating Slow-thinking Capability of Large Language Models**](https://openreview.net/forum?id=fBuWs9swzc),<br> by *Anonymous*
 <br><br>
 - [<img src=https://img.shields.io/badge/-2025-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2504.13534) [**CoT-RAG: Integrating Chain of Thought and Retrieval-Augmented Generation to Enhance Reasoning in Large Language Models**](https://arxiv.org/abs/2504.13534),<br> by *Feiyang Li, Peng Fang, Zhan Shi, Arijit Khan, Fang Wang, Dan Feng, Weihao Wang, Xin Zhang et al.*
+<br><br>
+- [<img src=https://img.shields.io/badge/the_63rd_Annual_Meeting_of_the_Association_for_Computational
+Linguistics_(Volume_1:_Long_Papers),_{ACL}_2025,_Vienna,_Austria,
+July_27_--_August_1,_2025-2025-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/2025.acl-long.1562/) [**Why Prompt Design Matters and Works: A Complexity Analysis of Prompt
+Search Space in LLMs**](https://aclanthology.org/2025.acl-long.1562/),<br> by *Xiang Zhang, Juntai Cao, Chenyu You and Dujian Ding*
+<br><br>
+- [<img src=https://img.shields.io/badge/-2025-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2510.26493) [**Context Engineering 2.0: The Context of Context Engineering**](https://arxiv.org/abs/2510.26493),<br> by *Qishuo Hua, Lyumanshan Ye, Dayuan Fu, Yang Xiao, Xiaojie Cai, Yunze Wu, Jifan Lin, Junfei Wang et al.*
+<br><br>
+- [<img src=https://img.shields.io/badge/the_63rd_Annual_Meeting_of_the_Association_for_Computational
+Linguistics_(Volume_1:_Long_Papers),_{ACL}_2025,_Vienna,_Austria,
+July_27_--_August_1,_2025-2025-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/2025.acl-long.1213/) [**Chain-of-Reasoning: Towards Unified Mathematical Reasoning in Large
+Language Models via a Multi-Paradigm Perspective**](https://aclanthology.org/2025.acl-long.1213/),<br> by *Yiyao Yu, Yuxiang Zhang, Dongdong Zhang, Xiao Liang, Hengyuan Zhang, Xingxing Zhang, Mahmoud Khademi, Hany Hassan Awadalla et al.*
 <br><br>
 ### 2024
 
@@ -376,6 +388,25 @@ Relation Extraction**](https://doi.org/10.18653/v1/2024.acl-long.391),<br> by *K
 A Gradient Perspective**](https://doi.org/10.48550/arXiv.2410.23743),<br> by *Ming Li, Yanhong Li and Tianyi Zhou*
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2412.10827) [**Rethinking Chain-of-Thought from the Perspective of Self-Training**](https://doi.org/10.48550/arXiv.2412.10827),<br> by *Zongqian Wu, Baoduo Xu, Ruochen Cui, Mengmeng Zhan, Xiaofeng Zhu and Lei Feng*
+<br><br>
+- [<img src=https://img.shields.io/badge/the_2024_Conference_on_Empirical_Methods_in_Natural
+Language_Processing,_{EMNLP}_2024,_Miami,_FL,_USA,_November_12--16,
+2024-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2024.emnlp-main.660) [**NuNER: Entity Recognition Encoder Pre-training via LLM-Annotated Data**](https://doi.org/10.18653/v1/2024.emnlp-main.660),<br> by *Sergei Bogdanov, Alexandre Constantin, Timoth\'ee Bernard, Beno\^\it Crabb\'e and Etienne Bernard*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2412.10121) [**Familiarity: Better Evaluation of Zero-Shot Named Entity Recognition
+by Quantifying Label Shifts in Synthetic Training Data**](https://doi.org/10.48550/arXiv.2412.10121),<br> by *Jonas Golde, Patrick Haller, Max Ploner, Fabio Barth, Nicolaas Paul Jedema and Alan Akbik*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2410.13118) [**Retrieval-Enhanced Named Entity Recognition**](https://doi.org/10.48550/arXiv.2410.13118),<br> by *Enzo Shiraishi, Raphael Y. de Camargo, Henrique L. P. Silva and Ronaldo C. Prati*
+<br><br>
+- [<img src=https://img.shields.io/badge/the_2024_Conference_of_the_North_American_Chapter_of
+the_Association_for_Computational_Linguistics:_Human_Language_Technologies
+(Volume_1:_Long_Papers),_{NAACL}_2024,_Mexico_City,_Mexico,_June_16--21,
+2024-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2024.naacl-long.300) [**GLiNER: Generalist Model for Named Entity Recognition using Bidirectional
+Transformer**](https://doi.org/10.18653/v1/2024.naacl-long.300),<br> by *Urchade Zaratiana, Nadi Tomeh, Pierre Holat and Thierry Charnois*
+<br><br>
+- [<img src=https://img.shields.io/badge/the_2024_Conference_on_Empirical_Methods_in_Natural
+Language_Processing,_{EMNLP}_2024,_Miami,_FL,_USA,_November_12--16,
+2024-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2024.emnlp-main.419) [**ADELIE: Aligning Large Language Models on Information Extraction**](https://doi.org/10.18653/v1/2024.emnlp-main.419),<br> by *Yunjia Qi, Hao Peng, Xiaozhi Wang, Bin Xu, Lei Hou and Juanzi Li*
 <br><br>
 ### 2023
 
