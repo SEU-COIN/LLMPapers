@@ -13,7 +13,7 @@ This page categorizes the literature by the **Last Post**
 ## Papers
 
 ### Outline 
-- [<img src=https://img.shields.io/badge/2025-15-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2025)
+- [<img src=https://img.shields.io/badge/2025-16-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2025)
 - [<img src=https://img.shields.io/badge/2024-125-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2024)
 - [<img src=https://img.shields.io/badge/2023-254-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2023)
 - [<img src=https://img.shields.io/badge/2022-232-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2022)
@@ -77,6 +77,8 @@ Search Space in LLMs**](https://aclanthology.org/2025.acl-long.1562/),<br> by *X
 Linguistics_(Volume_1:_Long_Papers),_{ACL}_2025,_Vienna,_Austria,
 July_27_--_August_1,_2025-2025-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/2025.acl-long.1213/) [**Chain-of-Reasoning: Towards Unified Mathematical Reasoning in Large
 Language Models via a Multi-Paradigm Perspective**](https://aclanthology.org/2025.acl-long.1213/),<br> by *Yiyao Yu, Yuxiang Zhang, Dongdong Zhang, Xiao Liang, Hengyuan Zhang, Xingxing Zhang, Mahmoud Khademi, Hany Hassan Awadalla et al.*
+<br><br>
+- [<img src=https://img.shields.io/badge/TMLR-2025-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://openreview.net/forum?id=buDwV7LUA7) [**StructEval: Benchmarking LLMs' Capabilities to Generate Structural Outputs**](https://openreview.net/forum?id=buDwV7LUA7), [<img src=https://img.shields.io/badge/Code-skyblue alt="img" style="zoom:100%; vertical-align: middle" />](https://github.com/TIGER-AI-Lab/StructEval)<br> by *Jialin Yang, Dongfu Jiang, Lipeng He, Sherman Siu, Yuxuan Zhang, Disen Liao, Zhuofeng Li, Huaye Zeng et al.*
 <br><br>
 ### 2024
 
